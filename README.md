@@ -1,5 +1,5 @@
 # Ejemplo de git
 
-Cambio desde `rama-prueba`
+Cambio hecho en `master`
 
 > I will survive
